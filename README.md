@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend and Java
 - 🌱 I’m currently learning CSS and Javascript
 - 💞️ I’m looking to collaborate on a public welfare software which can help rural area students learn English and coding.
-- 📫 How to reach me :Facebook:Rose Liu  Email:
+- 📫 How to reach me :Facebook:Rose Liu  Email:1782283861@qq.com
 
 <!---
 RoseEvans7/RoseEvans7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
